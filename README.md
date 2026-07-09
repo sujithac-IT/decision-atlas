@@ -103,17 +103,5 @@ docker-compose up -d
 
 ## 📚 Documentation
 
-- [Architecture Guide](./docs/Architecture.pdf)
-- [API Documentation](./docs/API_Documentation.md)
+- presentation (file:///C:/Users/sujit/Downloads/Decision-Atlas%20(1).pdf)
 
-## 📝 License
-
-MIT License - See LICENSE file for details
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
